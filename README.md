@@ -1,0 +1,2 @@
+# Customer_Churn_Prediction_System
+ Developed a churn prediction and retention system for a bank, focusing on data preprocessing, feature engineering, and machine learning. Utilized NLP techniques (tokenization, lemmatization, sentiment analysis, and topic modeling) to analyze customer feedback. Implemented Random Forest and SVM models, applying GridSearchCV for hyperparameter tuning, and identified key factors contributing to customer churn.
